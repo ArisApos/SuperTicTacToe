@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/ArisApos/SuperTicTacToe/static/js/runtime~main.c0b284fd.js"
   },
   {
-    "revision": "ac304f3b0f70cec5f618",
-    "url": "/ArisApos/SuperTicTacToe/static/js/main.ac304f3b.chunk.js"
+    "revision": "916251a641606064a35d",
+    "url": "/ArisApos/SuperTicTacToe/static/js/main.916251a6.chunk.js"
   },
   {
     "revision": "cccd8235db7090802a66",
     "url": "/ArisApos/SuperTicTacToe/static/js/1.cccd8235.chunk.js"
   },
   {
-    "revision": "ac304f3b0f70cec5f618",
-    "url": "/ArisApos/SuperTicTacToe/static/css/main.24105153.chunk.css"
+    "revision": "916251a641606064a35d",
+    "url": "/ArisApos/SuperTicTacToe/static/css/main.0b29b049.chunk.css"
   },
   {
-    "revision": "1e70e9487c075c6405eca6388d9d0e09",
+    "revision": "a3547e24507a63f850851c06d8e0cd90",
     "url": "/ArisApos/SuperTicTacToe/index.html"
   }
 ];
