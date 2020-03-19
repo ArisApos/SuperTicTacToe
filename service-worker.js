@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ArisApos/SuperTicTacToe/precache-manifest.c0bd1a30b1854fb49666eea3a8905430.js"
+  "/ArisApos/SuperTicTacToe/precache-manifest.6c2aa0b3aa34242083de5023baa2124d.js"
 );
 
 workbox.clientsClaim();

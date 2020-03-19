@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/ArisApos/SuperTicTacToe/static/css/main.0b29b049.chunk.css"
   },
   {
-    "revision": "a3547e24507a63f850851c06d8e0cd90",
+    "revision": "b70415ac57240ad1974fbff0c2199397",
     "url": "/ArisApos/SuperTicTacToe/index.html"
   }
 ];
